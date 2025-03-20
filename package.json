@@ -1,7 +1,25 @@
 {
   "name": "propelauth",
   "version": "1.0.0",
+  "description": "Redirects users to the official @propelauth/cli package",
   "bin": {
     "propelauth": "index.js"
-  }
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "propelauth",
+    "cli"
+  ],
+  "author": "PropelAuth",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PropelAuth/cli-stub.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PropelAuth/cli-stub/issues"
+  },
+  "homepage": "https://github.com/PropelAuth/cli-stub#readme"
 }
