@@ -1,0 +1,7 @@
+{
+  "name": "propelauth",
+  "version": "1.0.0",
+  "bin": {
+    "propelauth": "index.js"
+  }
+}
